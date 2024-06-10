@@ -1,0 +1,5 @@
+libimobiledevice
+pycryptodome
+sqlite3
+fpdf
+matplotlib
