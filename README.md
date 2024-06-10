@@ -25,7 +25,7 @@ ios-digital-forensic-tool/
 
 1. Clone repository ini:
 ```
-git clone https://github.com/username/ios-digital-forensic-tool.git
+git clone https://github.com/imhunterand/ios-digital-forensic-tool.git
 
 ```
 2. Navigasi ke direktori proyek:
